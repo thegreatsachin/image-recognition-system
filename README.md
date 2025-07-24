@@ -71,7 +71,7 @@ Then go to http://127.0.0.1:5000 in your browser.
 
 ## 🙋‍♂️ About:
 
-I built this project as part of my internship to learn about integrating AI with full-stack development.
+I built this project as part of my internship to learn about Python development.
 Feel free to fork, contribute, or give feedback!
 
 
