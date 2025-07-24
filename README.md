@@ -52,8 +52,6 @@ Image_Recognition_System/
 
 ├── static/uploads/ # Uploaded images
 
-└── requirements.txt # Python dependencies
-
 ---
 
 ## 🧪 How to Run Locally
